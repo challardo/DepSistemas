@@ -1,5 +1,6 @@
 # DepSistemas
 Departamento de sistemas del ITT hecho con bootstrap y php
+(la pagina es adaptable y responsiva)
 
 ## Screenshots
 
